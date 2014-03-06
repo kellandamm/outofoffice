@@ -1,0 +1,33 @@
+body,html {
+    height:100%;
+    margin:0;
+    padding:0;
+	color: #4f6b72;
+	background: #E6EAE9;
+	max-height: 100%; 
+	}
+
+
+
+td {  font: bold 13px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;color: #4f6b72;
+	text-transform: uppercase;
+	text-align: left;	
+	letter-spacing: 2px;
+}  
+
+tr {  font: bold 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;color: #4f6b72;
+	text-transform: uppercase;
+	text-align: left;	
+	letter-spacing: 2px;
+}  
+
+
+table { 
+	width:auto;
+	height:auto;
+	margin:auto;
+	border-right: 1px solid #F9F7ED;
+	border-bottom: 1px solid #F9F7ED;
+	border-top: 1px solid #F9F7ED;
+	border-left: 1px solid #F9F7ED;
+}
